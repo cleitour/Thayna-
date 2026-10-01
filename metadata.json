@@ -1,0 +1,6 @@
+{
+  "name": "Thayna Lucena - Nutricionista Clínica e Esportiva",
+  "description": "Bio site oficial de Thayna Lucena. Nutrição clínica e esportiva, emagrecimento, hipertrofia e saúde. Atendimento presencial e on-line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
